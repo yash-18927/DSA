@@ -21,3 +21,8 @@ My solutions to data structures and algorithms problems in Python.
 13. **Maximum Absolute sum of any sub-array**: [max_abs_sum.py](./max_abs_sum.py)
 14. **Merge Intervals**: [merge_intervals.py](./merge_intervals.py)
 15. **Next Permutation**: [next_permutation.py](./next_permutation.py)
+16. **Common in 3 Sorted Arrays**: [common_elements.py](./common_elements.py)
+17. **Count the Number of Inversions**: [count_inversions.py](./count_inversions.py)
+18. **Best Time to Buy and Sell Stock**: [buy_sell_stock.py](./buy_sell_stock.py)
+19. **Finding Pairs With a Certain Sum**: [find_sum_pairs.py](./find_sum_pairs.py)
+20. **Subarray Sum Equals K**: [subarray_sum.py](./subarray_sum.py)
