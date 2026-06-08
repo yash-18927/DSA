@@ -1,4 +1,4 @@
-![DSA Banner](./assets/preview.png)
+![DSA Banner](./preview.png)
 
 # DSA Solutions
 
