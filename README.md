@@ -4,6 +4,36 @@
 
 My solutions to data structures and algorithms problems in Python.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Progress-47%20Solved-brightgreen?style=for-the-badge" alt="Progress" />
+</p>
+
+## Topic Classification
+
+```mermaid
+graph TD
+    Root["DSA Topics"] --> Array["Arrays"]
+    Root --> Algo["Algorithms & Search"]
+    Root --> Math["Mathematics"]
+
+    Array --> A1["Rotate Array"]
+    Array --> A2["Pascal's Triangle"]
+    Array --> A3["Trapping Rain Water"]
+    Array --> A4["Image Smoother"]
+
+    Algo --> S1["Binary Search"]
+    Algo --> S2["Rotated Search"]
+    Algo --> S3["Aggressive Cows"]
+    Algo --> S4["Longest Increasing Subsequence"]
+
+    Math --> M1["Single Number"]
+    Math --> M2["Happy Number"]
+    Math --> M3["Power of Two"]
+    Math --> M4["Excel Column"]
+```
+
 ## Problems List
 
 1. **Rotate the array**: [q_01_Rotate_Array.py](./q_01_Rotate_Array.py)
