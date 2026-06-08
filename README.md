@@ -1,5 +1,3 @@
-![DSA Banner](./preview.png)
-
 # DSA Solutions
 
 My solutions to data structures and algorithms problems in Python.
